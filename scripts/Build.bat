@@ -2,7 +2,7 @@
 
 set "scriptDir=%~dp0"
 
-echo projName=%projName%
+set "projName=CMakeTemplate"
 
 
 REM Set default build configuration to Release
